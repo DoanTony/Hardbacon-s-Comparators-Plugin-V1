@@ -1,0 +1,26 @@
+.meta-row
+{
+	display: block;
+	height:35px;
+}
+textarea
+{
+	white-space: pre-line;
+}
+.meta-th
+{
+	float: left;
+}
+.meta-td
+{
+		padding-right:15%;
+}
+.meta-td input
+{
+	width: 100%;
+}
+.information
+{
+	font-size:25px;
+	font-weight: 800;
+}

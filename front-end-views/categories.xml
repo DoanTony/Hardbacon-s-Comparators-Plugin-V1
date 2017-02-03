@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+	<category id="1">
+		<name>Minimum deposit</name>
+		<tooltip>Amount required to open an account.</tooltip>
+		<nameFR>Dépot minimum</nameFR>
+		<tooltipFR>Montant requis pour l&#39;ouverture d&#39;un compte.</tooltipFR>
+	</category>
+	<category id="2">
+		<name>Commission - Equity</name>
+		<tooltip>Fee charged on every executed buy or sell equity transaction. Some brokers have variable commissions depending on the number of shares traded. Commission is not charged if the order expires or is cancelled.</tooltip>
+		<nameFR>Commissions - Équité</nameFR>
+		<tooltipFR>Frais facturé à chaque transaction d&#39;achat/de vente d&#39;équité exécutée. Certains courtiers chargent davantage en fonction du nombre d&#39;actions transigées. Aucune commission n&#39;est facturée si l&#39;ordre expire ou est annulé.</tooltipFR>
+	</category>
+
+	<category id="3">
+		<name>Reduced comissions - Equity</name>
+		<tooltip>Lower fees are usually offered to active investors who trade a lot or subscribe to premium services.</tooltip>
+		<nameFR>Commissions réduites - Équité</nameFR>
+		<tooltipFR>Frais réduits offerts aux investisseurs actifs qui transigent beaucoup ou qui sont abonnés à des services payants.</tooltipFR>
+	</category>
+
+	<category id="4">
+		<name>ETF offers</name>
+		<tooltip>Some brokers offer free purchases on all ETFs and only charge commissions on sell transactions. Others offer a limited selection of commission-free ETFs. If no offer is available, ETFs are commissionned as equity.</tooltip>
+		<nameFR>Offres pour les FNB</nameFR>
+		<tooltipFR>Certains courtiers permettent d&#39;acheter des FNB gratuitement et facturent une commission à la vente seulement. D&#39;autres offrent une sélection limitée de FNB sans commission. Les FNB sont considérés comme de l&#39;équité.</tooltipFR>
+	</category>
+
+	<category id="5">
+		<name>Account maintenance</name>
+		<tooltip>Administration fee to maintain an account. This is usually waived when certain asset levels or number of commissionable trades are met.</tooltip>
+		<nameFR>Tenue de compte</nameFR>
+		<tooltipFR>Frais d&#39;administration pour maintenir un compte. Ces frais sont éliminés lorsqu&#39;un certain niveau d&#39;actif ou nombre de transaction avec commission est atteint.</tooltipFR>
+	</category>
+
+	<category id="6">
+		<name>Account maintenance rebate criteria</name>
+		<tooltip>Requirements to meet in order to waive account maintenance fees. Required assets are based on the total of all accounts.</tooltip>
+		<nameFR>Critères pour éviter les frais de tenue de compte</nameFR>
+		<tooltipFR>Les critères spécifiques à rencontrer afin d'éviter les frais de tenue de compte. Le niveau d'actif requis tient compte du total de tous les comptes.</tooltipFR>
+	</category>
+
+	<category id="7">
+		<name>Options - Commissions</name>
+		<tooltip>Fee charged on every executed buy or sell options transaction which depends on the number of contracts. Commission is not charged if the order expires or is cancelled.</tooltip>
+		<nameFR>Options - Commissions</nameFR>
+		<tooltipFR>Frais facturé à chaque transaction d&#39;achat/de vente d&#39;options exécutée. Les courtiers chargent généralement en fonction du nombre de contrats transigées. Aucune commission n&#39;est facturée si l&#39;ordre expire ou est annulé.</tooltipFR>
+	</category>
+
+	<category id="8">
+		<name>Option - Reduced commissions</name>
+		<tooltip>Lower fees are usually offered to active investors who trade a lot or subscribe to premium services.</tooltip>
+		<nameFR>Option - Commissions réduites</nameFR>
+		<tooltipFR>Frais réduits offerts aux investisseurs actifs qui transigent beaucoup ou sont abonnés à des services payants.</tooltipFR>
+	</category>
+
+	<category id="9">
+		<name>International markets</name>
+		<tooltip>To invest in foreign companies not listed in North-American markets, most brokerages charge hefty commissions. International markets provide increased diversification and unique opportunities, but also expose investors to foreign exchange risk.</tooltip>
+		<nameFR>Marchés internationaux</nameFR>
+		<tooltipFR>Pour investir dans des compagnies qui ne sont pas inscrites auprès d&#39;une Bourse nord-américaine, la plupart des courtages facturent de grosses commissions. Les marchés internationaux offrent des opportunités uniques de diversification, mais exposent l&#39;investisseur au risque de change.</tooltipFR>
+	</category>
+
+	<category id="10">
+		<name>Account transfer</name>
+		<tooltip>Withdrawing your money is usually free, but most brokerages charge a fee to transfer an account to another financial institution.</tooltip>
+		<nameFR>Transfert de compte</nameFR>
+		<tooltipFR>Retirer son argent est généralement gratuit, mais la plupart des courtiers facturent des frais pour transférer un compte vers une autre institution financière.</tooltipFR>
+	</category>
+
+	<category id="11">
+		<name>Dual-currency (CAD/USD)</name>
+		<tooltip>Dual-currency accounts settle transactions in their base currencies (USD or CAD) without automatically converting them to CAD. Allows canadian and U.S. market transactions without bothersome exchange rates.</tooltip>
+		<nameFR>Compte à deux devises (CAD/USD)</nameFR>
+		<tooltipFR>Dans un compte à deux devises, les transactions sont réglées dans la devise de base (USD ou CAD) sans être automatiquement converties en CAD. Permet de transiger dans les marchés canadiens et U.S. sans se préoccuper du taux de change.</tooltipFR>
+	</category>
+
+	<category id="12">
+		<name>USD only</name>
+		<tooltip>USD denominated brokerage accounts allow you to trade in U.S. markets without converting to CAD. No bothersome exchange rate but requires at least one account per currency.</tooltip>
+		<nameFR>Comptes USD</nameFR>
+		<tooltipFR>Un compte de courtage dénominé en USD permet de transiger dans les marchés U.S. sans convertir en CAD. Pas d&#39;	inquiétude de taux de change mais requiert un compte par devise.</tooltipFR>
+	</category>
+
+	<category id="13">
+		<name>Mobile</name>
+		<tooltip>Mobile application for iOS or Android. Website built for mobile on which you can place trades.</tooltip>
+		<nameFR>Mobile</nameFR>
+		<tooltipFR>Application mobile pour iOS ou Android. Site web adapté sur mobile pour placer des ordres.</tooltipFR>
+	</category>
+
+	<category id="14">
+		<name>Resources</name>
+		<tooltip>Premium tools offered at no additional costs to account holders. Most brokerages also offer in-house market research and quotes.</tooltip>
+		<nameFR>Resources</nameFR>
+		<tooltipFR>Outils professionnels offerts gratuitement aux détenteurs de comptes. La majorité des courtiers offrent également des rapports et cotations internes.</tooltipFR>
+	</category>
+
+	<category id="15">
+		<name>Robo-advisor</name>
+		<tooltip>Robo-advisors invest your money automatically based on your risk profile. Set it and forget it.</tooltip>
+		<nameFR>Robot-conseillers</nameFR>
+		<tooltipFR>Les robot-conseillers investissent votre argent selon votre profil de risque. Déposez votre argent et laissez mijoter.</tooltipFR>
+	</category>
+
+	<category id="16">
+		<name>Level 1 &amp; 2 Data</name>
+		<tooltip>Real-time data can give experienced traders important insight regarding market depth. Level 1 users get real-time quotes while level 2 offers details on all pending orders (bid/ask). Some brokers offer "real-time" data that differs from actual Level 1 or 2 and makes this information unreliable.</tooltip>
+		<nameFR>Données niveau 1 &amp; 2</nameFR>
+		<tooltipFR>Les données en temps-réel permettent aux investisseurs expérimentés d&#39;évaluer la profondeur du marché. Les données de niveau 1 représentent des données en temps réel et le niveau 2 affiche les détails de tous les ordres en attente (offre/demande). Certains courtiers offrent des données en "temps-réel" qui diffère d&#39;un réel niveau 1 ou 2 et peuvent ne pas être fiables.</tooltipFR>
+	</category>
+
+	<category id="17">
+		<name>Margin account rate</name>
+		<tooltip>Interest rates on outstanding margin balance: only the amount borrowed incurs interest. Higher margin balances usually offer better rates. "P" means prime rate, which is determined by the Bank of Canada.</tooltip>
+		<nameFR>Taux de compte sur marge</nameFR>
+		<tooltipFR>Taux d&#39;intérêt sur la balance d&#39;un compte sur marge. Un solde plus élevé réduit habituellement le taux d&#39;intérêt. "B" indique le taux de base qui est dicté par la Banque du Canada.</tooltipFR>
+	</category>
+
+
+
+	 <!-- ===== Robo Categories ====== -->
+	<category id="18">
+		<name>Pricing</name>
+		<tooltip>Fee charged on invested assets.</tooltip>
+		<nameFR>Tarification</nameFR>
+		<tooltipFR>Frais facturés sur l&#39;actif investi.</tooltipFR>
+	</category>
+
+	<category id="19">
+		<name>Portfolio</name>
+		<tooltip>Some robo-advisors offer portfolios of publicly available ETFs while others offer similar in-house funds.</tooltip>
+		<nameFR>Portefeuille</nameFR>
+		<tooltipFR>Certains robot-conseillers offrent des portefeuilles de FNBs disponibles publiquement et d&#39;autres offrent des fonds maison semblables.</tooltipFR>
+	</category>
+
+	<category id="20">
+		<name>Rebalancing</name>
+		<tooltip>Periodically evaluate your current portfolio and adjust holdings to maintain investor's risk profile.</tooltip>
+		<nameFR>Rebalancement</nameFR>
+		<tooltipFR>Évalue périodiquement votre portefeuille et ajuste vos avoirs pour conserver le profil de risque désiré.</tooltipFR>
+	</category>
+
+	<category id="21">
+		<name>Tax optimization</name>
+		<tooltip>Tax efficient funds work to minimize transactions with fiscal impacts. Tax loss harvesting is the practice of selling securities that have incurred losses to offset taxes on positive returns.</tooltip>
+		<nameFR>Optimisation fiscale</nameFR>
+		<tooltipFR>Les fonds à efficacité fiscale transigent de manière à minimiser les impacts fiscaux. La cristallisation du gain en capital consiste à vendre des titres qui ont généré des pertes afin de compenser les rendements positifs.</tooltipFR>
+	</category>
+
+	<category id="22">
+		<name>Personalized help</name>
+		<tooltip>Robo-advisors are automated services but some offer an added layer of assistance to help you make sense of your investments.</tooltip>
+		<nameFR>Assistance personnalisée</nameFR>
+		<tooltipFR>Les robot-conseillers sont des services automatisés, mais certains offrent de l&#39;assistance personnalisée pour vous aider à comprendre vos placements.</tooltipFR>
+	</category>
+
+	<category id="23">
+		<name>Mobile</name>
+		<tooltip>Mobile application for iOS or Android.</tooltip>
+		<nameFR>Application mobile</nameFR>
+		<tooltipFR>Application mobile pour iOS ou Android.</tooltipFR>
+	</category>
+
+	<category id="24">
+		<name>Promotional offers</name>
+		<tooltip>These offers, often available for a limited time, allow Hardbacon’s users to keep more bacon in their pockets. Every time a user redeem one of these offers using our links, we get a commission, which allow us to continue to work for you. </tooltip>
+		<nameFR>Offres promotionnelles</nameFR>
+		<tooltipFR>Ces offres, qui sont souvent d’une durée limitée, permettent aux utilisateurs de Hardbacon de garder plus de bacon dans leurs poches. Chaque fois qu’un utilisateur profite d’une de ces offres en utilisant nos liens, nous empochons une commission, ce qui nous permet de continuer à vous servir. </tooltipFR>
+	</category>
+</categories>
